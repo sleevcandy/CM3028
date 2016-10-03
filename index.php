@@ -11,8 +11,11 @@
 <body>
 <p>
 <?php
-echo "Hello World" ." " ." ";
-echo 5 * 7;
+
+$myname = "Frodo of bag end";
+$myage = 75;
+echo "My name is " . $myname . "and I am " . $myage;
+// i guess everything outside doctype! gets printed
 ?>
 </p>
 </body>
