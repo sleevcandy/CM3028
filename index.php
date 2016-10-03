@@ -13,8 +13,16 @@
 <?php
 $myname = "Frodo of bag end";
 $myage = 75;
-echo "My name is " . $myname . "and I am " . $myage;
-// i guess everything outside doctype! gets printed
+echo "My name is " . $myname . " and I am " . $myage;
+// i guess everything before doctype! gets printed as basic text
+$name = "Edgar";
+
+if($name == "Simon"){
+    print "i know you!";
+}
+else{
+    print "Who are you?";
+}
 ?>
 </p>
 </body>
