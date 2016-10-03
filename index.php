@@ -11,11 +11,6 @@
 <body>
 <p>
 <?php
-$myname = "Frodo of bag end";
-$myage = 75;
-echo "My name is " . $myname . " and I am " . $myage;
-\r\n;
-// i guess everything before doctype! gets printed as basic text
 $name = "Edgar";
 
 if($name == "Simon"){
