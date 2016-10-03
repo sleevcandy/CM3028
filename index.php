@@ -12,7 +12,6 @@
 <p>
 <?php
 $name = "Edgar";
-
 if($name == "Simon"){
     print "i know you!";
 }
