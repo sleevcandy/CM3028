@@ -11,7 +11,6 @@
 <body>
 <p>
 <?php
-
 $myname = "Frodo of bag end";
 $myage = 75;
 echo "My name is " . $myname . "and I am " . $myage;
