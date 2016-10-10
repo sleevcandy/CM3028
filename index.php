@@ -16,7 +16,7 @@ if($name == "Simon"){
     print "i know you!";
 }
 else{
-    print "Who are you?";
+    print "Who are youhoo?";
 }
 ?>
 </p>
